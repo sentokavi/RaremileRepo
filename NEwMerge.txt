@@ -14,5 +14,9 @@ hgjhgjhgjhgjh
 gjgjhghjgjhgjh
 >>>>>>> e878b38ee20314e5fa642030a655fcec7aae05d2
 sdfsafasfsaf
+<<<<<<< HEAD
 
 asdfasdfsa
+=======
+sadfasfaasdfasfsdfasfsadfasdfasfaf
+>>>>>>> e4d9adbfa785eefe62048fd0d77523d79e55eb78
