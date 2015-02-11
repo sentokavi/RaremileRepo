@@ -2,4 +2,8 @@ adsfasf
 
 hellooooooo
 hgjhgjhgjhgjhgjhgjlhgjhgjhgjkhgjgjhgjh
+<<<<<<< HEAD
 hgjhgjhgjhgjh
+=======
+gjgjhghjgjhgjh
+>>>>>>> e878b38ee20314e5fa642030a655fcec7aae05d2
