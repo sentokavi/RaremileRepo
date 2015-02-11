@@ -1,5 +1,8 @@
 adsfasf
 This is the rebase try
+
+
+I want to merge the my file with remote
 hellooooooo
 hgjhgjhgjhgjhgjhgjlhgjhgjhgjkhgjgjhgjh
 <<<<<<< HEAD
