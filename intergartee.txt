@@ -1,4 +1,8 @@
 Testing integration
 
+<<<<<<< HEAD
 
 One more testing
+=======
+Tesing in Remote
+>>>>>>> e38a61e620f440cd34d06d7506a3b4d378e4acce
